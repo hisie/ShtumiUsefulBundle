@@ -35,6 +35,7 @@ You should configure each autocomplete filter:
    - *ends_with* - LIKE '%value'
    - *contains*  - LIKE '%value%'
 - **case_insensitive** - Whether or not matching should be case sensitive or not
+- **auto_focus** - boolean - mimics the gmail autocomplete. autoselects first match so you can hit enter and have field filled in easy.
 
 Usage
 =====
