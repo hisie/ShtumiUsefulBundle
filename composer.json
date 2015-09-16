@@ -1,13 +1,20 @@
 {
-    "name": "shtumi/useful-bundle",
+    "name": "hisie/useful-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony ShtumiUsefulBundle",
-    "keywords": ["Ajax Autocomplete form type", "Dependent filtered form type", "daterange", "shtumi"],
+    "description": "Symfony ShtumiUsefulBundle Fork for many to many",
+    "keywords": ["Ajax Autocomplete form type", "Dependent filtered form type", "daterange", "shtumi", "hisie", "manyToMany", "m2m"],
     "license": "MIT",
     "authors": [
         {
             "name": "Mikhail Shtukin",
             "email": "shtumi@tut.by"
+        },
+        {
+            "name": "nucleartux"
+        },
+        {
+            "name": "Diego Cebrian",
+            "email": "dcebrian@serincas.com"
         }
     ],
     "require": {
