@@ -44,6 +44,7 @@ class Configuration implements ConfigurationInterface
                             ->end()
             			    ->booleanNode('case_insensitive')
                                  ->defaultTrue()
+                            ->end()
                             ->booleanNode('auto_focus')
                             ->end()
                         ->end()
